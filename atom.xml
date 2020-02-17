@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://inoise.xyz</id>
+    <title>噪声Noise</title>
+    <updated>2020-02-17T02:25:54.476Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://inoise.xyz"/>
+    <link rel="self" href="https://inoise.xyz/atom.xml"/>
+    <subtitle>这个世界需要一些噪声</subtitle>
+    <logo>https://inoise.xyz/images/avatar.png</logo>
+    <icon>https://inoise.xyz/favicon.ico</icon>
+    <rights>All rights reserved 2020, 噪声Noise</rights>
+    <entry>
+        <title type="html"><![CDATA[起点]]></title>
+        <id>https://inoise.xyz/post/qi-dian/</id>
+        <link href="https://inoise.xyz/post/qi-dian/">
+        </link>
+        <updated>2020-02-17T02:24:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>一个新的开始发生在2020年。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一个新的开始发生在2020年。</p>
+<!-- more -->
+<p>噪声Noise 博客今天正式上线，这个时间点写博客是不是有点迟钝？😅有句话是怎么说来着，一切都可以从此刻开始，也就是说我现在的行为并不算是逆势而为，只是这个事一时半会很难看出个结果。</p>
+<p>写博客对我而言最大的作用就是释放情绪给自己回血。平时老是动嘴皮子，感觉心里那份表达的欲望和冲突都开始枯竭了，在新的一年尝试一些新的「冒险」也是不错的体验吧。</p>
+<p>博客相对公众号感觉开放了不少，公众号过于封闭，如果没有适当引流，可能写的很多东西就安安静静的躺在账号上，咳咳，好像咱这个新博客也是如此，如果不进行引流，不让搜索引擎关注，遭遇会跟公众号一样。有一种一开始就先泼自己一身冷水的味道。</p>
+<p>对了，噪声Noise 博客自豪的使用「 <a href="https://gridea.dev/">Gridea</a> 」搭建并维护，这是博客里的第一篇文章，往后的日子里我会在博客中记录一些我对互联网产品的看法和一些心得体会，不期望说写的东西能帮助到多少人，只希望时间不会让我轻易忘记曾经说过的话以及进行过的思考。</p>
+<blockquote>
+<p>向下扎根，向上结果，学会爱人，凡事包容，凡事相信，凡事盼望，凡事忍耐。<br>
+这个世界需要一些噪声<br>
+这里就是我的噪声。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://inoise.xyz/post/hello-gridea/</id>
+        <link href="https://inoise.xyz/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
