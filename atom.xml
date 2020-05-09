@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://inoise.xyz</id>
     <title>噪声Noise</title>
-    <updated>2020-02-17T02:48:51.533Z</updated>
+    <updated>2020-05-09T16:09:09.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://inoise.xyz"/>
     <link rel="self" href="https://inoise.xyz/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://inoise.xyz/images/avatar.png</logo>
     <icon>https://inoise.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, 噪声Noise</rights>
+    <entry>
+        <title type="html"><![CDATA[100天之后我们就恋爱吧]]></title>
+        <id>https://inoise.xyz/post/100-tian-zhi-hou-wo-men-jiu-lian-ai-ba/</id>
+        <link href="https://inoise.xyz/post/100-tian-zhi-hou-wo-men-jiu-lian-ai-ba/">
+        </link>
+        <updated>2020-05-06T16:28:13.000Z</updated>
+        <content type="html"><![CDATA[<p>2020 年 5 月 7 日，我在中国上海向你问好，虽然我更想在你耳边向你问好。</p>
+<p>我最近在问自己，喜欢一个人到底是为了最后两人手牵手走向婚姻的殿堂还是为了一起相处过的时光，起初我会说「肯定是为了结果呀，跟你在一起才是最终的目的不是嘛」而深入思考之后才意识到过程大于结果，爱情最值得纪念的是过程，哪些感动对方被对方治愈的过程。</p>
+<p>于是乎，我就想到了这个主题「100天后我们就恋爱吧」一是给这段追求加个期限，另外也是在这段过程中慢慢找寻真心。2020年五一假期期间我对一个女生动了心，事后看起来有些冲动且荒唐，我们相识了10年，实际见面不到48小时，我就对她表白了……</p>
+<p>当然就被拒绝了，被拒绝之后的人是脆弱的，以至于丢弃了对事情本身的思考和逻辑，只是单纯的伤心，为什么她不喜欢我？为什么心动是单方面的？为什么…… 因为这突然起来的表白，迎接的就是突然的距离感，两个人好像没办法回到从前了。「获得教训：如果你不想跟对方做朋友了那就去表白吧」</p>
+<p>现在情绪稳定多了，复盘这件事，我不后悔去表白（在后悔里也没用）只是埋怨自己做事前没有考虑后果，虽然确实活在了当下，没有留下「为什么不表白的遗憾」但却有了新的遗憾。单方面在意自己的情绪不考虑对方就是自我感动。</p>
+<p>时间还省下99天，请给时间一点时间，到时我要在春天见你，送你满山的花朵。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[起点]]></title>
         <id>https://inoise.xyz/post/qi-dian/</id>
