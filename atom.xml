@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://inoise.xyz</id>
     <title>噪声Noise</title>
-    <updated>2020-05-09T16:55:55.603Z</updated>
+    <updated>2020-05-09T16:56:48.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://inoise.xyz"/>
     <link rel="self" href="https://inoise.xyz/atom.xml"/>
