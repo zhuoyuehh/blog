@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://inoise.xyz</id>
     <title>硬熊说 -记录美好时代</title>
-    <updated>2020-08-28T08:42:49.825Z</updated>
+    <updated>2020-08-28T08:46:28.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://inoise.xyz"/>
     <link rel="self" href="https://inoise.xyz/atom.xml"/>
-    <subtitle>记录美好时代</subtitle>
+    <subtitle>记录美好时代 / &lt;a href=&quot;https://anchor.fm/yingxiong&quot; target=&quot;_blank&quot;&gt;Podcast&lt;/a&gt;</subtitle>
     <logo>https://inoise.xyz/images/avatar.png</logo>
     <icon>https://inoise.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, 硬熊说 -记录美好时代</rights>
