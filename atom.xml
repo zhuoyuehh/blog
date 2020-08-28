@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://inoise.xyz</id>
-    <title>噪声Noise</title>
-    <updated>2020-08-28T08:40:14.420Z</updated>
+    <title>硬熊说 -记录美好时代</title>
+    <updated>2020-08-28T08:42:49.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://inoise.xyz"/>
     <link rel="self" href="https://inoise.xyz/atom.xml"/>
-    <subtitle>这个世界需要一些噪声</subtitle>
+    <subtitle>记录美好时代</subtitle>
     <logo>https://inoise.xyz/images/avatar.png</logo>
     <icon>https://inoise.xyz/favicon.ico</icon>
-    <rights>All rights reserved 2020, 噪声Noise</rights>
+    <rights>All rights reserved 2020, 硬熊说 -记录美好时代</rights>
     <entry>
         <title type="html"><![CDATA[100天之后我们就恋爱吧]]></title>
         <id>https://inoise.xyz/post/100-tian-zhi-hou-wo-men-jiu-lian-ai-ba/</id>
