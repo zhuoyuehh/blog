@@ -2,55 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://inoise.xyz</id>
     <title>硬熊说 -记录美好时代</title>
-    <updated>2020-08-29T16:18:22.783Z</updated>
+    <updated>2020-08-29T17:00:52.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://inoise.xyz"/>
     <link rel="self" href="https://inoise.xyz/atom.xml"/>
-    <subtitle>记录美好时代 / &lt;a href=&quot;https://anchor.fm/yingxiong&quot; target=&quot;_blank&quot;&gt;Podcast&lt;/a&gt;</subtitle>
+    <subtitle>&lt;a href=&quot;https://anchor.fm/yingxiong&quot; target=&quot;_blank&quot;&gt;记录美好时代 / Podcast&lt;/a&gt;</subtitle>
     <logo>https://inoise.xyz/images/avatar.png</logo>
     <icon>https://inoise.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, 硬熊说 -记录美好时代</rights>
     <entry>
-        <title type="html"><![CDATA[VOL.1 与二次元对话]]></title>
+        <title type="html"><![CDATA[VOL.1 与二次元对话（上）]]></title>
         <id>https://inoise.xyz/post/vol1-yu-er-ci-yuan-dui-hua/</id>
         <link href="https://inoise.xyz/post/vol1-yu-er-ci-yuan-dui-hua/">
         </link>
         <updated>2020-08-24T16:26:26.000Z</updated>
-        <content type="html"><![CDATA[<p>二次元一词来自于日语「二次元（にじげん）」，本义为「二维」，引申为「在纸面、屏幕等平面上展示的动画、游戏等作品中角色」这次我们与 三无酱 一起聊了三个小时，畅谈他眼中的的二次元，动漫改编成真人影视剧的讨论，从追番到看片的体验，以及谈了谈二次元的另一个产物福利姬。</p>
-<blockquote>
-<p>注：本期因为远程录制问题，部分声音有瑕疵，节目分为上下期推出。</p>
-</blockquote>
-<iframe src="https://anchor.fm/yingxiong/embed/episodes/vol-1-eilvd2/a-a31melh" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-<p>🔹订阅收听本期节目：<a href="https://podcasts.apple.com/us/podcast/vol-1%E4%B8%8E%E4%BA%8C%E6%AC%A1%E5%85%83%E5%AF%B9%E8%AF%9D-%E4%B8%8A/id1529415880?i=1000489281256">Apple Podcast</a>、<a href="https://www.xiaoyuzhoufm.com/episode/5f48c2739504bbdb77426235">小宇宙</a>、<a href="https://www.ximalaya.com/yule/41235258/331156981">喜马拉雅</a>、<a href="https://open.spotify.com/episode/6VWo5hVuxNnioq3y5Bp4ax">Spotify</a>、<a href="https://overcast.fm/+hxtzUKf6Q">Overcast</a></p>
-<h3 id="主播">主播：</h3>
-<p>卓越 / 念侠</p>
-<h3 id="嘉宾">嘉宾：</h3>
-<p>三无酱，常居武汉，老 ACG 玩家，业余画师</p>
-<p>01:11 你眼中的二次元是什么？<br>
-04:33 现在的二次元跟几年前有什么不同？<br>
-08:50 许知远跟马东在《十三邀》中谈论的5%与95%<br>
-15:19 B站的单机演示视频《黑神话》是否在逆市场<br>
-18:41 中国的3A大作有哪些？有3A大作吗？<br>
-28:45 亚文化的抱团现象<br>
-31:44  动漫改变成影视剧会出现排异（尬）为什么？<br>
-35:51 恐怖的动漫改变成影视剧接受程度好像也不高？<br>
-43:26 对「美好」的东西是否会有排异反应呢？<br>
-46:37 从萌新到绅士的转变，你经历了什么？<br>
-50:18 二次元的钱到底好不好赚<br>
-57:14 福利姬也喜欢二次元</p>
-<h3 id="音乐">音乐：</h3>
-<p>CHINES SOUP</p>
-<h3 id="相关补充">相关补充：</h3>
-<ul>
-<li><a href="https://weibo.com/u/6339147855">@三无酱 新浪微博 </a></li>
-<li><a href="https://mzh.moegirl.org.cn/ACG">萌娘百科 ACG</a></li>
-<li><a href="https://www.bilibili.com/video/BV1x54y1e7zf">游戏科学新作《黑神话：悟空》13分钟实机演示</a></li>
-<li><a href="https://movie.douban.com/subject/2982064/">《风云》豆瓣页面</a></li>
-<li>三无酱推荐的动漫推荐：红辣椒、未麻的部屋、千年女优、阿基拉 、攻壳机动队、钢之炼金术师FA、FLCL（特别的她），天元突破、斩服少女、灵能百分百</li>
-</ul>
-<h2 id="订阅硬熊说">🎵订阅硬熊说</h2>
-<p><a href="https://anchor.fm/s/32d1fb78/podcast/rss">海外RSS地址</a><br>
-<a href="https://www.ximalaya.com/album/41235258.xml">国内RSS地址</a></p>
+        <summary type="html"><![CDATA[<p>二次元一词来自于日语「二次元（にじげん）」，本义为「二维」，引申为「在纸面、屏幕等平面上展示的动画、游戏等作品中角色」这次我们与三无酱一起聊了三个小时，畅谈他眼中的的二次元，动漫改编成真人影视剧的讨论，从追番到看片的体验，以及谈了谈二次元的另一个产物福利姬。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>二次元一词来自于日语「二次元（にじげん）」，本义为「二维」，引申为「在纸面、屏幕等平面上展示的动画、游戏等作品中角色」这次我们与三无酱一起聊了三个小时，畅谈他眼中的的二次元，动漫改编成真人影视剧的讨论，从追番到看片的体验，以及谈了谈二次元的另一个产物福利姬。</p>
 ]]></content>
     </entry>
     <entry>
@@ -59,12 +27,9 @@
         <link href="https://inoise.xyz/post/100-tian-zhi-hou-wo-men-jiu-lian-ai-ba/">
         </link>
         <updated>2020-05-06T16:28:13.000Z</updated>
-        <content type="html"><![CDATA[<p>2020 年 5 月 7 日，我在中国上海向你问好，虽然我更想在你耳边说你好。</p>
-<p>最近我会问自己喜欢一个人到底是为了最后走向婚姻殿堂还是为了哪些有对方存在的日子。要是之前，我会选前者，谁不想跟喜欢的人有结果，在一起最终的目的当然就是结婚啦，经历了一些事情后，我意识到两人相处其实过程大于最终的结果，结果是对过程的见证，如果只看结果忽视过程的话，这是对自己不够清醒，没有经历过社会的毒打。</p>
-<p>现在我的结论是『爱情最值得守护和珍惜的是过程，是哪些感动对方或者自我感动的事情，是被对方治愈然后变成一个「好」人的过程。』描述起来有点鸡汤，而我现在就是这个状态。我决定开启一个「实验性的计划」叫做「100天后我们就恋爱」给要追求的 ta 增加一个时间期限，如果 100 天内两个人的感觉没有任何变化，那我就选择放手。</p>
-<p>2020年的五一假期，我对一个相识网络上认识了10年实际见面不到48小时的女生动了心，我充满信心的跟她表白，然后收到了直接了当的拒绝，被拒绝后的 72 小时是沮丧且失落的，在酒精的指引下，情绪仿佛得到了宣泄，但事后一直处于低气压的状态，为什么她不喜欢我？为什么心动是单方面的？……</p>
-<p>因为这突然的表白，两个人之间的距离感增加了不少，好像再也没办法回到从前的状态了，解锁了新技能「如果你不想跟对方做朋友，那么就去表白吧」现在的情绪稳定多了，复盘这件事，我并不后悔去表白这件事，只是会埋怨自己做事前没有考虑后果，虽然活在了当下，没有给未来留下「当时你怎么不去表白的遗憾」但却增加了新的遗憾——要是不在这个时间点表白，多培养一段时间，是不是就表白成功了？</p>
-<p>100 天之后我们就恋爱吧，请给时间一点时间，到时我要在春天见你，送你满山的花朵。</p>
+        <summary type="html"><![CDATA[<p>咚咚咚，嘿！妳在听吗？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>咚咚咚，嘿！妳在听吗？</p>
 ]]></content>
     </entry>
     <entry>
@@ -76,8 +41,6 @@
         <summary type="html"><![CDATA[<p>新的开始发生在2020年，记录美好时代。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>新的开始发生在2020年，记录美好时代。</p>
-<!-- more -->
-<p>硬熊说今天正式上线了。新的一年尝试一些新的冒险，博客自豪的使用「 <a href="https://gridea.dev/">Gridea</a> 」搭建并维护，这个世界需要一些噪声，而这就是我的噪声。</p>
 ]]></content>
     </entry>
 </feed>

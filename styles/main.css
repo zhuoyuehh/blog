@@ -1728,7 +1728,7 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
         }
         
         .gt-bg-theme-color-second {
-          background: #ffffff!important;
+          background: #e9ecef!important;
         }
         
         .gt-bg-content-color-first {
@@ -1740,11 +1740,11 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
         }
         
         .gt-bg-accent-color-first {
-          background: #f5bab2!important;
+          background: #d6336c!important;
         }
         
         .gt-bg-accent-color-second {
-          background: RGBA(245,186,178,0.14)!important;
+          background: RGBA(214,51,108,0.2)!important;
         }
         
         .gt-c-theme-color-first {
@@ -1752,7 +1752,7 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
         }
         
         .gt-c-theme-color-second {
-          color: #ffffff!important;
+          color: #e9ecef!important;
         }
         
         .gt-c-content-color-first {
@@ -1764,11 +1764,11 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
         }
         
         .gt-c-accent-color-first {
-          color: #f5bab2!important;
+          color: #d6336c!important;
         }
         
         .gt-c-accent-color-second {
-          color: RGBA(245,186,178,0.14)!important;
+          color: RGBA(214,51,108,0.2)!important;
         }
         
         body {
@@ -1776,39 +1776,39 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
         }
         
         a {
-          color: #f5bab2!important;
+          color: #d6336c!important;
         }
         
         .post-content h1 {
           display: inline-block;
           color: #5f6169!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(245,186,178,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(214,51,108,0.4) 0)!important;
         }
         
         .post-content h2 {
           display: inline-block;
           color: #5f6169!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(245,186,178,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(214,51,108,0.4) 0)!important;
         }
         
         .gt-a-link {
           color: #5f6169!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(245,186,178,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(214,51,108,0.4) 0)!important;
         }
         
         .gt-post-content a {
-          color: #f5bab2!important;
+          color: #d6336c!important;
         }
         
         .gt-post-content blockquote {
-          background: RGBA(245,186,178,0.14)!important;
-          border-color: #f5bab2!important;
+          background: RGBA(214,51,108,0.2)!important;
+          border-color: #d6336c!important;
         }
         
         .gt-post-content code {
-          background: RGBA(245,186,178,0.14)!important;
+          background: RGBA(214,51,108,0.2)!important;
         }
          
